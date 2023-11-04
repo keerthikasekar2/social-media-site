@@ -1,0 +1,228 @@
+#title{
+    background-color:#E1F2F7;
+    color:black;
+   
+   
+}
+.logoimg{
+    height: 30px;
+    width: 50px;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: #EF0D50;
+    
+    
+}
+.navbar a:hover{
+    color: #E5BACE;
+}
+.navbar-brand{
+    padding-top: 8px;
+}
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    padding-left: 500px;
+
+}
+body{
+    font-family: 'Montserrat-black', sans-serif;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    font-size: 18px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.title-dog{
+    padding-left: 200px;
+}
+.title-image{
+    width: 350px;
+    height: 450px;
+    /* transform: rotate(20deg); */
+    position:relative;
+    right: 30%;
+    margin-top: 0px;
+    padding-top: 60px;
+    padding-left: 200px;
+   
+}
+    
+
+
+
+h1{
+    font-family: 'Montserrat-bold', sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: bold;
+   
+}
+h2{
+    font-family:'Montserrat-bold', sans-serif ;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+h3{
+    font-family:'Montserrat-bold', sans-serif ;
+    font-weight: bold;
+    
+}
+p{
+    color: gray;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding:0 18px ;
+}
+.nav-link{
+    font-size: 1.4rem;
+    font-family: 'montserrat';
+}
+.btn{
+    margin: 5% 3% 5% 0;
+    height: 40px;
+    width: 120px;
+    font-size: 17px;
+    border: none;
+    border-radius: 8px;
+    background-color: #EF0D50;
+    color: white;
+}
+.btn:hover{
+    background-color:#E5BACE ;
+    color: black;
+    border: none;
+}
+#features{
+    /* padding: 7% 15%; */
+    background-color: white;
+    position: relative;
+    /* z-index: 1; */
+    
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.feature{
+    color:#EF0D50;
+    margin-bottom: 1rem;
+    font-size: 50px;
+}
+.feature:hover{
+    color:#E1F2F7;}
+#testimonials{
+    
+    text-align:center;
+    background-color:#E1F2F7;
+    color: black;
+}
+.testimonial-image{
+    width: 30%;
+    border-radius: 50%;
+    margin: 20px;
+
+}
+.slide{
+    display: flex;
+    font-size: 32px;
+}
+.itemactive{
+    padding: 30px;
+}
+.itemactive p{
+    color: black;
+}
+ /* #testimonials .slide{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    
+
+}
+#testimonials .slide::-webkit-scrollbar{
+    display: none;
+}
+#testimonials .slide .itemactive{
+    position: relative;
+}  */
+
+ #press{
+    background-color:#E1F2F7;
+     text-align: center;
+    padding-bottom: 3%;
+    
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+h4{
+    color: black;
+}
+.carousel-indicators{
+    margin-top: 10%;
+}
+.articles{
+   border-radius: 5px;
+    margin-top: 40px;
+    margin-left: 22px;
+    margin-right: 50px;
+    height: 500px;
+    width: 350px;
+    background-color: #E1F2F7;
+}
+.article1{
+    border-radius: 5px;
+    width: 350px;
+    height: 300px;
+    
+}
+h3 a{
+    color: black;
+}
+.pet-detail{
+    padding: 15px;
+    
+}
+.article-link{
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+#footer{
+    padding: 4%;
+    text-align: center;
+}
+.footer-icon{
+    padding-right: 1%;
+} 
