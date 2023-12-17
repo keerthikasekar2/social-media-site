@@ -1,5 +1,5 @@
 .header{
-    background-color:#E1F2F7;
+    background-color:white;
     position: absolute;
     width: 100%;
     top: 0;
@@ -7,10 +7,10 @@
     justify-content:space-between;
     flex-direction: row;
     align-items: center;
-    height: 60px;
+    height: 50px;
     margin: 0%;
-    color: #EF0D50 ;
-    font-size: 20px;}
+     ;
+    }
     .ri-menu-line{
         font-size: 30px;
         padding: 5px;
@@ -22,8 +22,8 @@
         align-items: center;
     }
     .logoimg{
-        height: 30px;
-        width: 50px;
+        height: 40px;
+        width: 110px;
         margin-left: 10px;
         border-radius: 5px;
         margin-right: 5px;
@@ -37,11 +37,14 @@
         margin-left: 150px;
         border-radius: 10px;
         width: 70%;
+        margin-top: 70px;
     }
     .body-division{
-        margin-top: 70px;
+
         padding: 20px;
-        width: 900px;
+        width: 100%;
+        background-color:#E1F2F7 ;
+
         
     }
     h1{

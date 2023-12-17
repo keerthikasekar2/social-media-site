@@ -1,5 +1,5 @@
 .header{
-    background-color:#E1F2F7;
+    background-color:white;
     position: absolute;
     width:100%;
     top: 0;
@@ -7,23 +7,13 @@
     justify-content:space-between;
     flex-direction: row;
     align-items: center;
-    height: 60px;
+    height: 40px;
     margin: 0%;
-    color: #EF0D50 ;
-    font-size: 20px;}
-    .ri-menu-line{
-        font-size: 30px;
-        padding: 5px;
-        padding-right: 20px;
     }
-    .logo{
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    }
+   
     .logoimg{
-        height: 30px;
-        width: 50px;
+        height: 40px;
+        width: 110px;
         margin-left: 10px;
         border-radius: 5px;
         margin-right: 5px;
@@ -34,15 +24,16 @@
         
     }
     .img-article1{
-        margin-left: 90px;
+        margin-left: 180px;
         border-radius: 10px;
-        width: 90%;
+        width: 70%;
+        margin-top: 70px;
     }
     .body-division{
         font-size: 20px;
-        margin-top: 70px;
-        padding: 30px;
-        width: 1000px;
+        
+        width: 100%;
+        background-color: #E1F2F7;
         
     }
     h1{
@@ -54,12 +45,12 @@
         color: rgb(206, 206, 206);
     }
     p{
-        padding-left: 60px;
+        padding-left: 40px;
         font-size:20px;
         color: gray;
     }
     ul{
-        padding-left:90px;
+        padding-left:60px;
     }
     li{
         color: gray;
